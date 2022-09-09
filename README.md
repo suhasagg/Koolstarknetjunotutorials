@@ -106,7 +106,7 @@ starknet_chainId - Return the currently configured StarkNet chain id.
 
 starknet_pendingTransactions - Returns the transactions in the transaction pool, recognized by this sequencer.
 
-starknet_syncing - Returns an object about the sync status, or false if the node is not synching.
+starknet_syncing - Returns an object about the sync status, or false if the node is not syncing.
 
 
 
