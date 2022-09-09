@@ -12,8 +12,7 @@ https://docs.starknet.io/
 
 ![l2l1-59d9b4f60a66a3b53476f3c058288f84](https://user-images.githubusercontent.com/3880512/189431574-8946a13e-eb4a-460c-91e3-7c953323d4a6.png)
 
-
-
+Contracts on L2 can interact asynchronously with contracts on L1 via the L2→L1 messaging protocol.
 
 https://docs.starknet.io/docs/L1-L2%20Communication/token-bridge
 
@@ -68,7 +67,7 @@ https://docs.starknet.io/docs/L1-L2%20Communication/token-bridge
 - [StarkNet Voting Workshop](https://starkware.notion.site/starkware/StarkNet-Voting-Workshop-b61ef5f4a62d45af86892cba3158f7e6) -
   End to end tutorial on building a voting app
 - [YouTube channel](https://www.youtube.com/channel/UCnDWguR8mE2oDBsjhQkgbvg/playlists) - Official StarkWare YouTube channel.
-
+- GO based smart contracts and VM (https://loomx.io/) L2 - L1 Go based smart contract interaction to be achieved. 
 #### Ecosystem
 
 - [StarkNet Ecosystem](https://starknet-ecosystem.com) -
