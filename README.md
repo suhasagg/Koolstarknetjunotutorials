@@ -108,6 +108,7 @@ starknet_pendingTransactions - Returns the transactions in the transaction pool,
 
 starknet_syncing - Returns an object about the sync status, or false if the node is not syncing.
 
+https://github.com/suhasagg/juno/
 
 
 #### Ecosystem
