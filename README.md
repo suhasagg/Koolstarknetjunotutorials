@@ -1,9 +1,4 @@
 
-          ![download](https://user-images.githubusercontent.com/3880512/189427891-2908d089-5de4-48bc-be02-d863d808269b.png)
-
-         
-
-
 
 <div align="center">
   <img alt="starknet logo" src="./assets/starknet.png" width="200" >
