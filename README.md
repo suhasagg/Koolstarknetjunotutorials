@@ -6,6 +6,8 @@ https://gojuno.xyz/
 
 https://docs.starknet.io/
 
+https://docs.starknet.io/docs/L1-L2%20Communication/token-bridge
+
 ### Contents
 
 - [Resources](#resources)
