@@ -67,7 +67,7 @@ https://docs.starknet.io/docs/L1-L2%20Communication/token-bridge
 - [StarkNet Voting Workshop](https://starkware.notion.site/starkware/StarkNet-Voting-Workshop-b61ef5f4a62d45af86892cba3158f7e6) -
   End to end tutorial on building a voting app
 - [YouTube channel](https://www.youtube.com/channel/UCnDWguR8mE2oDBsjhQkgbvg/playlists) - Official StarkWare YouTube channel.
-- GO based smart contracts and VM (https://loomx.io/) L2 - L1 Go based smart contract interaction to be achieved. 
+- Go based smart contracts and VM (https://loomx.io/) L2 - L1 Go based smart contract interaction to be achieved. 
 #### Ecosystem
 
 - [StarkNet Ecosystem](https://starknet-ecosystem.com) -
