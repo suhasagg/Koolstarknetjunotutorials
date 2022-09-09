@@ -2,7 +2,7 @@
 
 ![Screenshot from 2022-09-10 00-59-40](https://user-images.githubusercontent.com/3880512/189429422-22182525-039f-4d13-80d4-19d3b52c6030.png)
 
-
+https://gojuno.xyz/
 
 
 ### Contents
