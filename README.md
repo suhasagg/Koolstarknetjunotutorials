@@ -1,27 +1,9 @@
 
 
-<div align="center">
-  <img alt="starknet logo" src="./assets/starknet.png" width="200" >
-  <h1 align="center">Awesome StarkNet</h1>
-  <p align="center">
-    <a href="https://github.com/sindresorhus/awesome">
-      <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
-    </a>
-    <a href="#buildstatus">
-      <img alt="build status badge" src="https://github.com/gakonst/awesome-starknet/workflows/Build/badge.svg">
-    </a>
-    <a href="https://github.com/gakonst/awesome-starknet/graphs/contributors">
-      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gakonst/awesome-starknet">
-    </a>
-    <a href="http://makeapullrequest.com">
-      <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
-    </a>
-  </p>
+![Screenshot from 2022-09-10 00-59-40](https://user-images.githubusercontent.com/3880512/189429422-22182525-039f-4d13-80d4-19d3b52c6030.png)
 
-  <p align="center">A curated list of awesome <a href="https://medium.com/starkware/starknet-alpha-is-coming-to-mainnet-b825829eaf32">StarkNet</a> resources, libraries, tools and more.</p>
-  <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
-</div>
+
 
 ### Contents
 
